@@ -21,14 +21,14 @@ Ritt, Costa, [Two simple and effective heuristics for minimizing the makespan in
 ## How to cite
 
 ```bibtex
-@Article{Benavides.Ritt/2018,
-  author = 	 {Alexander Benavides and Marcus Ritt},
-  title = 	 {Fast heuristics for minimizing the makespan in non-permutation flow shops},
-  journal =	 {Comput. Oper. Res.},
-  year = 	 {2018},
-  volume =	 {100},
-  pages =	 {230--243},
-  month =	 dec,
-  doi = 	 {10.1016/j.cor.2018.07.017}
+@Article{Benavides.Ritt/2016,
+  author = 	 {Alexander J. Benavides and Marcus Ritt},
+  title = 	 {Two simple and effective heuristics for minimizing the makespan in non-permutation flow shops},
+  journal =  {Comput. Oper. Res.},
+  year = 	 {2016},
+  volume =	 {66},
+  pages =	 {160--169},
+  month =	 feb,
+  doi = 	 {10.1016/j.cor.2015.08.001}
 }
 ```
