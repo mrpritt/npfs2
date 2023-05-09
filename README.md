@@ -22,13 +22,13 @@ Ritt, Costa, [Two simple and effective heuristics for minimizing the makespan in
 
 ```bibtex
 @Article{Benavides.Ritt/2016,
-  author = 	 {Alexander J. Benavides and Marcus Ritt},
-  title = 	 {Two simple and effective heuristics for minimizing the makespan in non-permutation flow shops},
+  author =   {Alexander J. Benavides and Marcus Ritt},
+  title =    {Two simple and effective heuristics for minimizing the makespan in non-permutation flow shops},
   journal =  {Comput. Oper. Res.},
-  year = 	 {2016},
-  volume =	 {66},
-  pages =	 {160--169},
-  month =	 feb,
-  doi = 	 {10.1016/j.cor.2015.08.001}
+  year =     {2016},
+  volume =   {66},
+  pages =    {160--169},
+  month =    feb,
+  doi =      {10.1016/j.cor.2015.08.001}
 }
 ```
