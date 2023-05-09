@@ -16,7 +16,7 @@ Ritt, Costa, [Two simple and effective heuristics for minimizing the makespan in
 * Detailed results on the comparison to Yagmahan and Yenisey (2010) and Rossi and Lanzetta (2013) on the first 28 instances of Taillard (1993) in Table 6: [Time 30nm](data/t6-30nm.csv), [Time 30nm²](data/t6-30nmm.csv), [results from the literature](data/Rossi.Lanzetta%20(2013),%20T3.csv).
 * Detailed results on the instances of Taillard (1993) in Table 7: [Time 30nm](data/t7-30nm.csv), [Time 30nm²](data/t7-30nmm.csv).
 * Detailed results on the comparison to state-of-the-art heuristics from the literature for permutation schedules on the instances of Taillard (1993) in Table 8: [Time 30nm](data/t8-30nm.csv), [Time 30nm²](data/t8-30nmm.csv), [our implementation of HGA](data/t8-hga.csv), results from the literature: [FF](data/Fernandez-Viagas,Framinan%20(2014),%20T1.csv), [NGV](data/Zobolas,etal%20(2009),%20T8.csv).
-* Detailed results on the comparison of buffer sizes for permutation and non-permutation solutions on the instances of Taillard (1993) in Table 9: [permutation schedules](data/t9-permutation.csv), [non-permutation schedules](data/t9-non-permutation.csv).
+* Detailed results on the comparison of buffer sizes for permutation and non-permutation solutions on the instances of Taillard (1993) in Table 9: [permutation schedules](data/t9-permutation.csv), [non-permutation schedules](data/t9-nonpermutation.csv).
 
 ## How to cite
 
